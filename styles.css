@@ -1,0 +1,44 @@
+#content{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+#header{
+    width: 63%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    color: black;
+}
+
+#home{
+    color: black;
+}
+
+#cart{
+    display: none;
+    color: black;
+}
+
+#signUp{
+    display: none;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+}
+
+
+h1 {
+    font-style: italic;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-style: italic;
+    font-family: cursive;
+    font-size: 50px;
+}
